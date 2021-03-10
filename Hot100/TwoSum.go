@@ -1,4 +1,4 @@
-package main
+package Hot100
 
 /**
 暴力解法
