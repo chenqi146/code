@@ -29,5 +29,6 @@ func removeElement(nums []int, val int) int {
 func main() {
 	ints := []int{0, 1, 2, 2, 3, 0, 4, 2}
 	println(removeElement(ints, 2))
+
 	fmt.Printf("%#v", ints)
 }
